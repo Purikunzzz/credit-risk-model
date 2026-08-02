@@ -18,7 +18,7 @@ Every step in the Machine Learning pipeline matters. Good data cleaning is like
 selecting quality parts for a car — the foundation everything else 
 depends on. Choosing the right algorithm is like assembling those parts 
 into something that runs. But feature engineering is the real tuning — 
-it's what makes the difference between a car that runs and one that wins.
+it's what makes the difference between a car that runs and one that wins. (It's my first project btw ;))
 
 ## Dataset
 [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit) — 150,000 loan records from Kaggle.

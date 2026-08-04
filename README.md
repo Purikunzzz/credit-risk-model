@@ -80,3 +80,5 @@ Response:
 - Python, XGBoost, scikit-learn, pandas
 - FastAPI, uvicorn, joblib
 
+## Live API
+https://credit-risk-model-1-3zw1.onrender.com

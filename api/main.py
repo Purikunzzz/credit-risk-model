@@ -4,7 +4,7 @@ from api.model import predict_default
 
 app = FastAPI(title="Credit Risk API")
 
-@app.get("/health")
+@app.get("/")
 def root():
     return {'message': 'Credit Risk API is running'}
 
